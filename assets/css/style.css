@@ -118,6 +118,17 @@ p {
     background: url("../images/gastronomy.png") no-repeat center center;
 }
 
+#food{
+    font-size: 110%;
+    letter-spacing: 1px;
+    margin-top: 5em ;
+    margin-bottom: 1em ;
+    text-align: center;
+    
+}
+.text-to-align {
+    vertical-align: bottom;
+}
 #joinus {
     height: 600px;
     width: 100%;
