@@ -99,9 +99,41 @@ p {
     width: 100%;
     background: url("../images/malaga.jpg") no-repeat center center;
 }
+
+#culture {
+    height: 600px;
+    width: 100%;
+    background: url("../images/culture.png") no-repeat center center;
+}
+
+#weather {
+    height: 600px;
+    width: 100%;
+    background: url("../images/weather.png") no-repeat center center;
+}
+
+#gastronomy {
+    height: 600px;
+    width: 100%;
+    background: url("../images/gastronomy.png") no-repeat center center;
+}
+
+#joinus {
+    height: 600px;
+    width: 100%;
+    background: url("../images/joinus.png") no-repeat center center;
+}
+
+#leisure {
+    height: 600px;
+    width: 100%;
+    background: url("../images/leisure.png") no-repeat center center;
+}
+
 #menu {
     text-align: center;
 }
+
 
 #malaga_heading {
     text-align: center;
