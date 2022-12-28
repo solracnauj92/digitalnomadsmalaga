@@ -1,0 +1,130 @@
+@import url("https://fonts.googleapis.com/css2?family=Chivo+Mono:ital@1&family=Playfair+Display&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    font-family: Chivo Mono, sans-serif;
+    color: #3a3a3a;
+}
+
+/* headings and logo */
+
+h1 {
+    font-family: Playfair Display, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align: center;
+    color:#000000
+}
+
+    
+h2 {
+    font-family: Playfair Display, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #000000;
+    text-align:left;
+    line-height: 200px;
+    padding-top: 80px;
+    padding-left: 40px;
+}
+
+p {
+    padding-left: 40px;
+    line-height: 30px;
+    margin-top: 1em ;
+    margin-bottom: 1em ;
+
+}
+
+
+
+#logo {
+    font-size: 280%;
+    margin-left: 30px;
+}
+#logo1 { 
+    display:flex; 
+    margin: 15px;
+    float: center; height: 220px; 
+    width: auto; 
+    border-radius: 50%;
+    position: absolute;
+    top: 60px;
+    left:850px;
+}
+
+
+
+
+/* navigation links */
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+}
+
+
+#menu {
+    line-height: 75px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #3a3a3a;
+}
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
+}
+
+/* Malaga image */
+
+#malaga {
+    height: 600px;
+    width: 100%;
+    background: url("../images/malaga.jpg") no-repeat center center;
+}
+#menu {
+    text-align: center;
+}
+
+#malaga_heading {
+    text-align: center;
+    margin: 0 auto;
+    font-size: 280%;
+}
+/* footer */
+
+footer {
+    height: 150px;
+}
+
+.social-media {
+    text-align: center;
+}
+
+.social-media > li {
+    display: inline;
+}
+
+.social-media i {
+    font-size: 200%;
+    margin: 1%;
+    padding: 5%;
+    color: #000000;
+}
