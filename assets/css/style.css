@@ -33,7 +33,18 @@ h2 {
     padding-left: 40px;
 }
 
+#extra_space {
+    padding-top: 80px;
+
+}
+
+h3 {
+    font-family: Playfair Display, sans-serif;
+    letter-spacing: 4px;
+    text-align:center;
+}
 p {
+    padding-right: 40px;
     padding-left: 40px;
     line-height: 30px;
     margin-top: 1em ;
@@ -121,13 +132,17 @@ p {
 #food{
     font-size: 110%;
     letter-spacing: 1px;
-    margin-top: 5em ;
+    margin-top: 1em ;
     margin-bottom: 1em ;
     text-align: center;
     
 }
 .text-to-align {
-    vertical-align: bottom;
+    vertical-align: top;
+    margin-top: 10em ;
+    margin-bottom: 10em ;
+    
+
 }
 #joinus {
     height: 600px;
@@ -155,6 +170,7 @@ p {
 
 footer {
     height: 150px;
+    padding-top: 300px;
 }
 
 .social-media {
