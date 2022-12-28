@@ -51,16 +51,38 @@
 
             </ul>
         </nav>
-        <section>
-            <div class="malaga_heading"><div>
+        <section class="form-section">
+            <form method="POST" action="https://formdump.codeinstitute.net/" class="joinus_form">
+                <h2>Meet other digital nomads in the city!</i></h2>
                 
-                <h2>Why Malaga For Digital Nomads?</h2>
-                    <p>
-                        In today's increasingly digital world, Malaga is one of the greatest locations for digital nomads. This Andalusian city on the Mediterranean coast of Spain has fascinating culture, from cuisine to music and art, fantastic weather, breathtaking beaches, magnificent castles, and unique exhibition venues. Moreover, Malaga is continuing to advance in the technology industry as a result of investments from major corporations. A centre of excellence in cybersecurity with a global reach will be based in Malaga thanks to Google. As a result, other technology firms have begun to look at Malaga as a potential new investment location. They believe the city has "great potential and opportunity."
-                    </p>
-                    
-                    <p> Visit the rest of our website to find out more about the city that welcomes digital nomads.</p>
-                    
+                <label for="fname" >First Name</label>
+                <input id="fname" name="first_name" type="text" class="text-input" required>
+                
+                <label for="lname" >Last Name</label>
+                <input id="lname" name="last_name" type="text" class="text-input" required>
+                
+                <label for="email" >Email Address</label>
+                <input type="email" id="email" name="email_address" class="text-input"  required>
+                <br>
+                <label for="comment" >Comments</label>
+                <input type="text" id="comment" name="comment" class="bigtext-input"  required>
+                <br>
+                <p>Which activities are you interested in participating in?</p>
+                <label for="diving">Diving</label>
+                <input type="radio" id="diving" name="activity_preference" value="diving" required>
+                <br>
+                <label for="trekking">Trekking</label>
+                <input type="radio" id="trekking" name="activity_preference" value="trekking" required>
+                <br>
+                <label for="flamencoandclubs">Flamenco and Clubs</label>
+                <input type="radio" id="flamencoandclubs" name="activity_preference" value="flamencoandclubs" required>
+                <br>
+                <label for="justrelax">Nothing, just relax!</label>
+                <input type="radio" id="justrelax" name="activity_preference" value="justrelax" required>
+                <br>
+                
+                <input class="join-button" type="submit" value="Vamos!">
+            </form>
         </section>
     </header>
     
