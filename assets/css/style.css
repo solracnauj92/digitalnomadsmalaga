@@ -38,6 +38,12 @@ h2 {
 
 }
 
+#extra_space2 {
+    padding-top: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
 h3 {
     font-family: Playfair Display, sans-serif;
     letter-spacing: 4px;
@@ -195,6 +201,7 @@ footer {
     background-size: cover;
     background-position: center;
     height: 900px;
+    
 }
 .joinus_form {
     margin: 150px 10% 0 0;
@@ -230,6 +237,7 @@ footer {
     margin: 5px 0 20px 0;
     border: 1px solid #fafafa;
     border-radius: 2px;
+    
 }
 .text-input:hover {
     border-color:#f16c6b;
