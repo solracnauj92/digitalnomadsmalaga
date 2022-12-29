@@ -260,3 +260,32 @@ footer {
     background-color:#fafafa;
     color:#f16c6b;
 }
+
+/* Buttons with links and pictures */
+
+#photos-button {
+    clear: both;
+    line-height: 2;
+    column-count: 10;
+    column-gap: 0;
+    padding: 40px;
+    text-align: center;
+    display: flex
+    
+}
+#photos-button > img {
+    width: 10%
+    
+}
+
+#photos-button > a {
+    height: 5%;
+    width: 100%
+}
+
+#wea {
+    margin-top: 100px;
+    height: 5%;
+    width: 100%;
+    padding: 5%;
+}
