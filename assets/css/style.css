@@ -245,37 +245,37 @@ p {
     
 }
 #leisure1{
-    background-image: url("../images/malaga.jpg");
+    background-image: url("../images/diving.png");
     float: left;
-    
+    font-family: Playfair Display, sans-serif;
     
 }
 #leisure2{
-    background-image: url("../images/weather.png");
+    background-image: url("../images/trekking.png");
     float: right;
-    
+    font-family: Playfair Display, sans-serif;
     
 }
 #leisure3{
-    background-image: url("../images/gastronomy.png");
+    background-image: url("../images/flamenco.png");
     float: left;
-    
+    font-family: Playfair Display, sans-serif;
 }
 #leisure4{
-    background-image: url("../images/culture.png");
+    background-image: url("../images/Hamam.png");
     float: right;
-    
+    font-family: Playfair Display, sans-serif;
 }
 #leisure5{
-    background-image: url("../images/joinus.png");
+    background-image: url("../images/beach.png");
     float: left;
-    
+    font-family: Playfair Display, sans-serif;
 
 }
 #leisure6{
-    background-image: url("../images/joinus.png");
+    background-image: url("../images/sailing.png");
     float: right;
-    
+    font-family: Playfair Display, sans-serif;
 }
 .leisure_image p {
     opacity: 0;
@@ -428,15 +428,89 @@ p {
         width: 65%;
         height: 1200px;
         margin: 0 auto;
-    } 
+    }
+    
+
+    #malaga_heading {
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    #times > div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+    }
+
+    hr {
+        display: none;
+    }
+} 
      
-}
+
 
 /* For medium screens sizes from 950px wide and down */
 @media screen and (max-width: 950px){
-
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
     
+    #cover-text {
+        left: 0;
+    }
+    #malaga{
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+    #culture{
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    } 
+    #weather{
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    } 
+    #gastronomy{
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+    #joinus{
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+    #leisure{
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    } 
+    
+    #malaga_heading {
+        width: inherit;
+    }
+    
+    #malaga_heading h2 {
+        width: 100%;
+        text-align: center;
+    }
+    
+    #malaga_heading p {
+        text-align: center;
+        padding: 0 20px;
+    
+    }
 }
+
 
 /* For small screens sizes from 800px wide and down */
 @media screen and (max-width: 800px){
