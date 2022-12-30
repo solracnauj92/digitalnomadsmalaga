@@ -174,13 +174,13 @@ p {
 }
 /* footer */
 
-footer {
+.footer {
     
     padding-top: 300px;
     clear: both;
     height: 200px;
     margin-top: -200px;
-    
+    text-align: center;
 }
 
 .social-media {
@@ -387,4 +387,51 @@ footer {
     border:1px;
     padding-right: 100px;
     float: right;
+}
+/* Media queries */
+
+/* For large to medium screens sizes from 1200px wide and down */
+@media screen and (max-width: 1200px){
+    #malaga{
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+    #culture{
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    } 
+    #weather{
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    } 
+    #gastronomy{
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+    #joinus{
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+    #leisure{
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    } 
+     
+}
+
+/* For medium screens sizes from 950px wide and down */
+@media screen and (max-width: 950px){
+
+    
+}
+
+/* For small screens sizes from 800px wide and down */
+@media screen and (max-width: 800px){
+    
 }
