@@ -33,16 +33,27 @@ h2 {
     padding-left: 40px;
 }
 
-#extra_space {
+.extra_space {
     padding-top: 80px;
 
 }
 
-#extra_space2 {
+.extra_space2 {
     padding-top: 200px;
     padding-left: 20px;
     padding-right: 20px;
 
+}
+.extra_space3 {
+    padding-top: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.extra_space4 {
+    padding-top: 300px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 h3 {
     font-family: Playfair Display, sans-serif;
@@ -122,6 +133,19 @@ p {
     width: 100%;
     background: url("../images/culture.png") no-repeat center center;
 }
+.culture_heading {
+    padding: 5%;
+}
+.culture_images {
+    height:300px; 
+    width:300px;
+    border:1px;
+}
+.culture_icons {
+    height:130px; 
+    width:130px;
+    border:1px;
+}
 
 #weather {
     height: 600px;
@@ -134,7 +158,11 @@ p {
     width: 100%;
     background: url("../images/gastronomy.png") no-repeat center center;
 }
-
+.gastronomy_images {
+    height:300px; 
+    width:300px;
+    border:1px;
+}
 #food{
     font-size: 110%;
     letter-spacing: 1px;
@@ -161,11 +189,6 @@ p {
     width: 100%;
     background: url("../images/leisure.png") no-repeat center center;
 }
-
-#menu {
-    text-align: center;
-}
-
 
 #malaga_heading {
     text-align: center;
@@ -388,6 +411,12 @@ p {
     padding-right: 100px;
     float: right;
 }
+.video_padding {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 35%;
+
+}   
 /* Media queries */
 
 /* For large to medium screens sizes from 1200px wide and down */
@@ -448,7 +477,7 @@ p {
         display: none;
     }
 } 
-     
+ 
 
 
 /* For medium screens sizes from 950px wide and down */
