@@ -78,12 +78,12 @@ After spending hours studying, drawing inspiration, testing different designs, u
 
     ## Features
     <h2>Navigation</h2>
-    1.The navigation bar is included directly beneath the page's hero picture.
-    2.Users are returned to the main home page if they click on the logo or the page's hero image.
-    3.The menu button to the left of the page, leads to Culture, Gastronomy, Leisure, and Join Us tabs.
-    4.The navigation text is simple and straightforward, showing  the page name underlined. 
-    5.The navigation bar makes it simple to find further page sections and clearly displays the name of the page.
-    6.The navigation bar always remains just beneath the hero image to enable user-continuous page navigation
+    1. The navigation bar is included directly beneath the page's hero picture.
+    2. Users are returned to the main home page if they click on the logo or the page's hero image.
+    3. The menu button to the left of the page, leads to Culture, Gastronomy, Leisure, and Join Us tabs.
+    4. The navigation text is simple and straightforward, showing  the page name underlined. 
+    5. The navigation bar makes it simple to find further page sections and clearly displays the name of the page.
+    6. The navigation bar always remains just beneath the hero image to enable user-continuous page navigation
 
     <h2>Header image</h2>
     The primary image, which is displayed above the navigation bar, provides a clear view of Malaga, Spain. The topic of each page is represented by an image. All of the hero pictures were from Canva-Pro. Multiple vertical pictures were employed to describe various activity choices to customers in the leisure section.
@@ -225,7 +225,11 @@ W3C CSS validator folder with test: <h2 align="center"><img src="https://github.
 
 -   Friends and my mentor were asked to review the site and documentation and report any bugs or issues with the user experience.
 
-<h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/responsive.png"></h2>
+<h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/edge.png"></h2>
+<h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/chrome.png"></h2>
+<h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/operagx.png"></h2>
+<h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/opera.png"></h2>
+
 
 ### Known Bugs
 
