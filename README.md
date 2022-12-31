@@ -9,7 +9,7 @@ Working from home is more common now than it has ever been. Many households and/
 The website is an online resource for digital nomads who are based in or intend to visit Malaga, Spain. In addition to highlighting the reasons why the city is friendly to digital nomads and providing details about the culture, history, cuisine, geography, and recreational opportunities of the city, it also describes a community of digital nomads who may want to meet new people, seek professional advice, or even co-work in the city.
 
 
-<h2 align="center"><img url("../images/responsive.png");</h2>
+<h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/responsive.png"></h2>
 
 ## User Experience (UX)
 
