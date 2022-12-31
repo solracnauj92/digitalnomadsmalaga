@@ -90,12 +90,6 @@ After spending hours studying, drawing inspiration, testing different designs, u
     The pictures stand out against the site's backdrop and are well lit.
     The picture is closely attributed to the website's aim.
 
-
-
--   Responsive on all device sizes
-
--   Interactive elements
-
 ## Technologies Used
 
 
@@ -221,12 +215,17 @@ W3C CSS validator folder with test: <h2 align="center"><img src="https://github.
         2. To the right hand side of the footer the user can see "Subscribe to our Newsletter" and are prompted to Enter their email address.
         3. There is a "Submit" button to the right hand side of the input field which is located close to the field and can easily be distinguished.
 
-### Further Testing
+### Aditional Testing
 
--   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
--   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
--   A large amount of testing was done to ensure that all pages were linking correctly.
--   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+-   Google Chrome, Microsoft Edge, and Opera and Opera GX browsers were used to test the website.
+
+-   The website was viewed on a variety of devices, including a desktop computer, a laptop, ipad , an iPhone and android tablets and phones.
+
+-   A significant amount of testing was performed to ensure that all pages linked correctly.
+
+-   Friends and my mentor were asked to review the site and documentation and report any bugs or issues with the user experience.
+
+<h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/responsive.png"></h2>
 
 ### Known Bugs
 
@@ -291,7 +290,14 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 -   I went back to my course materials and followed some of the codes there, including the Love Running project as a guide as well as I have used the following references as guidance and code:
     -   https://stackoverflow.com/questions/29336611/css-media-queries-order-matters
     -   https://www.youtube.com/watch?v=_JvHvGGvps0&t=181s
-    -   
+    -   https://www.youtube.com/watch?v=srvUrASNj0s
+    -   https://www.freecodecamp.org/learn/
+    -   https://www.udemy.com/
+    -   http://talkerscode.com/howto/embed-youtube-video-in-html-without-iframe.php
+    -   https://webformatter.com/html
+    -   https://www.youtube.com/watch?v=M3mOzwHN0Zc&t=724s
+    -   https://www.w3schools.com/css/css3_images.asp
+
 
 ### Media
 
