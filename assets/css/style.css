@@ -513,7 +513,7 @@ p {
         clear: both;
         line-height: 2;
         column-count: 10;
-        column-gap: 11;
+        column-gap: 0;
         padding: 5%;
         text-align: center;
         display: inline-table;
@@ -632,7 +632,7 @@ p {
             clear: both;
             line-height: 2;
             column-count: 10;
-            column-gap: 11;
+            column-gap: 0;
             padding: 5%;
             text-align: center;
             display: inline-table;
@@ -706,8 +706,8 @@ p {
             padding-bottom: 74px;
             margin-top: 6%;
             text-align: center;
-        
         }
+        
         h3 {
             font-family: Playfair Display, sans-serif;
             letter-spacing: 1px;
@@ -744,7 +744,7 @@ p {
             clear: both;
             line-height: 2;
             column-count: 10;
-            column-gap: 11;
+            column-gap: 0;
             padding: 5%;
             text-align: center;
             display: inline-table;
