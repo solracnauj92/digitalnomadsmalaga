@@ -17,20 +17,14 @@ The website is an online resource for digital nomads who are based in or intend 
 
     -   #### First Time Visitor Goals
 
-        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
-        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
-        3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
+        1. As a First-Time Visitor, I want my targeted potential customer to understand the site's main purpose and learn more about who we are and what we can offer.
+        2. As a First-Time Visitor, I want to be able to easily navigate the site and find content.
+        3. As a First-Time Visitor, I'd like to find their social media links so that I can see how trusted and well-known they are.
 
-    -   #### Returning Visitor Goals
-
-        1. As a Returning Visitor, I want to find information about coding challenges.
-        2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-        3. As a Returning Visitor, I want to find community links.
-
-    -   #### Frequent User Goals
-        1. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
-        2. As a Frequent User, I want to check to see if there are any new blog posts.
-        3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
+    -   #### Returning and Frequent Visitor Goals
+        1. As a Returning and Frequent Visitor, I'd like to find new information about Malaga and upcoming events.
+        2. As a Returning and Frequent Visitor, I'd like to find the best way to contact the community with any questions.
+        3. As a Returning and Frequent Visitor, I'd like to subscribe to the Newsletter so that I can be notified of any major updates or changes to the website or organisation.
 
     -   ### Design
     -   #### Theme and Color palette
@@ -68,17 +62,17 @@ After spending hours studying, drawing inspiration, testing different designs, u
 *   ### Wireframes
     -Balsamiq helped me brainstorm and design my website. However, since this was the original concept before attempting to create the website, some elements were changed along the way. 
 
-    -   Home 
+    ###   Home 
     <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/home.png"></h2>
-    -   Culture
+    ###  Culture
     <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/culture1.png"></h2>
-    -   Gastronomy 
+    ###   Gastronomy 
     <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/gastronomy1.png"></h2>
-    -   Weather
+    ###  Weather
      <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/weather1.png"></h2>
-    -   Leisure
+    ###  Leisure
      <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/leisure1.png"></h2>
-    -   Join Us
+    ###   Join Us
     <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/joinus1.png"></h2>
     
 
@@ -131,7 +125,16 @@ After spending hours studying, drawing inspiration, testing different designs, u
 1. [Canva:](https://www.canva.com/)
     - Canva was used to create the logo, resizing images and editing photos for the website.
 1. [Balsamiq:](https://balsamiq.com/)
-    - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+    - Balsamiq was used to create the wireframe for the website.
+1. [Webaccessibility:](https://www.webaccessibility.com/)
+    - webaccessibility was used to test for disabilty friendly users. 
+1. [Quillbot:](https://quillboy.com/)
+    - Quillbot was used to paraphrasing some writing from different sources incluiding my own writing 
+
+#### Writing
+-   Being a native of Malaga, Spain, and having used the sources given below to acquire my data, I was able to relate to the facts, culture, and experiences of the city in all of my writings. 
+- Here are some of the links that I have used:
+1. 
 
 ## Testing
 
@@ -142,6 +145,10 @@ W3C HTML validator folder with test: <h2 align="center"><img src="https://github
 W3C CSS validator folder with test: <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/w3ccssvalidator"></h2>
 
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results]<h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/w3ccssvalidator/stylew3c.png"></h2>
+
+### Accessibility
+-   I have verified that my fonts and colours are readable and that my website is accessible to all users.
+<h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/webaccessibility.png"></h2>
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -208,9 +215,9 @@ W3C CSS validator folder with test: <h2 align="center"><img src="https://github.
 
 ### Known Bugs
 
--   On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
+-   When using a different screen size, some bugs appear that affect the entire page. I made every effort to fix it, but there may be some errors that I couldn't fix..
     -   A white gap can be seen to the right of the footer and navigation bar as a result.
--   On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
+-   I've had trouble inserting or finding any source to add the video because they all had an iframe that the validator cited was outdated. It gave me errors for my codes relating to outdated systems. However, I discovered a reference on stackoverflow that helped me find an alternative.
 
 ## Deployment
 
