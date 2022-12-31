@@ -81,22 +81,31 @@ After spending hours studying, drawing inspiration, testing different designs, u
     <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/joinus1.png"></h2>
     
 
+    ## Features
+    -Navigation
+    1.The navigation bar is included directly beneath the page's hero picture.
+    2.Users are returned to the main home page if they click on the logo or the page's hero image.
+    3.The menu button to the left of the page, leads to Culture, Gastronomy, Leisure, and Join Us tabs.
+    4.The navigation text is simple and straightforward, showing  the page name underlined. 
+    5.The navigation bar makes it simple to find further page sections and clearly displays the name of the page.
+    6.The navigation bar always remains just beneath the hero image to enable user-continuous page navigation
+
+    -Header image
+    The primary image, which is displayed above the navigation bar, provides a clear view of Malaga, Spain. The topic of each page is represented by an image. All of the hero pictures were from Canva-Pro. Multiple vertical pictures were employed to describe various activity choices to customers in the leisure section.
+    The pictures stand out against the site's backdrop and are well lit.
+    The picture is closely attributed to the website's aim.
 
 
-
-    -   Home Page Wireframe - [View](https://github.com/)
-
-    -   Mobile Wireframe - [View](https://github.com/)
-
-    -   Contact Us Page Wireframe - [View](https://github.com/)
-
-## Features
 
 -   Responsive on all device sizes
 
 -   Interactive elements
 
 ## Technologies Used
+
+
+
+
 
 ### Languages Used
 
@@ -105,22 +114,21 @@ After spending hours studying, drawing inspiration, testing different designs, u
 
 ### Frameworks, Libraries & Programs Used
 
-1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
-    - Bootstrap was used to assist with the responsiveness and styling of the website.
+
 1. [Hover.css:](https://ianlunn.github.io/Hover/)
     - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
 1. [Google Fonts:](https://fonts.google.com/)
     - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
 1. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-1. [jQuery:](https://jquery.com/)
-    - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
+1. [Am I responsive?:](https://amiresponsive.co.uk/)
+    - Am I responsive was used to check how the website response across different devices.
 1. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
-1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
-    - Photoshop was used to create the logo, resizing images and editing photos for the website.
+1. [Canva:](https://www.canva.com/)
+    - Canva was used to create the logo, resizing images and editing photos for the website.
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 
@@ -128,8 +136,8 @@ After spending hours studying, drawing inspiration, testing different designs, u
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results]<h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/w3cmarkupvalidator"></h2>
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results]<h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/w3ccssvalidator"></h2>
 
 ### Testing User Stories from User Experience (UX) Section
 
