@@ -45,10 +45,18 @@ The website is an online resource for digital nomads who are based in or intend 
         <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/font1.png"></h2>
         -   ‘Chivo Mono’ font is used for paragraphs and other subheadings. For the necessity of a digitalised look and a font that matches well with PlayFair Display. Designed by Omnibus-Type.
                 <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/font2.png"></h2>
+        -. ‘Sans-serif’- font is used in the unlikely event that a browser is unable to load my chosen fonts.
 
 .
-    -   #### Imagery
-        -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
+    -   #### Logo and Images
+        -   Canva was used to download most of the images. All images for Canva-Pro users, according to Canva's website, are free from copyright restrictions. I was able to navigate through their images to find the ones needed for the website.
+After spending hours studying, drawing inspiration, testing different designs, understanding the value of brand identity and how consumers would react to it, the logo design was developed and created using Canva. I've opted to keep with minimalism and use white and black as the logo's primary colours. This way I can use it against any background colour. Moreover, I've decided to use the same hero font that I've used across the website for the logo to match.
+        <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/logoblack.png"></h2>
+        -Because there were no copyright-free images available for the content I was looking for, I used Canva to match related images that fit the museum's concept for the section on the culture page. I deliberately made it distinctive so that customers wouldn't focus much on the images because they have no link to the museums.
+        <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/museumdesign.png"></h2>
+
+
+
 
 *   ### Wireframes
 
