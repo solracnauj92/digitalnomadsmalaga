@@ -39,7 +39,14 @@ The website is an online resource for digital nomads who are based in or intend 
         <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/colour.png"></h2>
 
     -   #### Typography
-        -   The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
+        -   Fonts were imported from Google Fonts. The Open Font Licence governs the use of these fonts.
+·        'PlayFair Display' font is used for the main text and headings. It is a stylish font that provides the look I was going for; a magazine-like appearance. Designed by Claus Eggers Sørensen.
+
+        <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/font1.png"></h2>
+        -   ‘Chivo Mono’ font is used for paragraphs and other subheadings. For the necessity of a digitalised look and a font that matches well with PlayFair Display. Designed by Omnibus-Type.
+                <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/font2.png"></h2>
+
+.
     -   #### Imagery
         -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
 
