@@ -35,7 +35,7 @@ The website is an online resource for digital nomads who are based in or intend 
 -   ### Design
     -   #### Theme and Color palette
         -   Since I recognize the importance of design and how the user will feel when browsing it, I felt a minimalist design and theme would work best with the website. Due to the plain and white background, the images can be highlighted and focused without affecting the user's experience. Additionally, users may find it simpler to read through the content on the page. Its ageless qualities of simplicity, neutrality, and elegance allow it to fit into any imaginative setting.
-        ![alt text]("../images/colour.png")
+        ![alt text]("https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/colour.png")
     -   #### Typography
         -   The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
     -   #### Imagery
