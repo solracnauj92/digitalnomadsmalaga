@@ -134,7 +134,22 @@ After spending hours studying, drawing inspiration, testing different designs, u
 #### Writing
 -   Being a native of Malaga, Spain, and having used the sources given below to acquire my data, I was able to relate to the facts, culture, and experiences of the city in all of my writings. 
 - Here are some of the links that I have used:
-1. 
+1. https://es.climate-data.org/europe/espana/andalucia/malaga-122/
+2. https://www.thomascook.com/holidays/weather/spain/costa-del-sol/malaga/
+3. https://www.uma.es/centrointernacionaldeespanol/info/118991/clima-en-malaga/
+4. https://www.weather-atlas.com/en/spain/malaga-climate
+5. http://malaga24h.com/
+6. https://www.rtve.es/temas/malaga/1474/
+7. https://www.wikipedia.org/
+8. https://nomadlist.com/malaga
+9. https://flamingotoursandtrips.com/malaga-a-hub-for-digital-nomads-guide-for-remote-workers/
+10. https://tlr-coworking.com/blog/how-malaga-supports-digital-nomads/
+11. https://www.malagacar.com/blog/travel-tips/malaga-for-digital-nomads/
+12. https://www.surinenglish.com/malaga/malaga-metropolis-remote-20220425122225-nt.html
+13. https://lovecostadelsol.com/blog/a-digital-nomad-guide-to-malaga-costa-del-sol-spain/
+14. https://www.andalucia.com/
+
+
 
 ## Testing
 
@@ -273,31 +288,20 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
 ## Credits
--   I went back to my course materials and followed some of the codes there, including the Love Running project as a guide
-
-### Code
-
--   The full-screen hero image code came from this [StackOverflow post](https://stackoverflow.com)
-
--   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
-
--   [MDN Web Docs](https://developer.mozilla.org/) : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found [Here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel#Pattern_validation)
-
-### Content
-
--   All content was written by the developer.
-
--   Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
-
+-   I went back to my course materials and followed some of the codes there, including the Love Running project as a guide as well as I have used the following references as guidance and code:
+    -   https://stackoverflow.com/questions/29336611/css-media-queries-order-matters
+    -   https://www.youtube.com/watch?v=_JvHvGGvps0&t=181s
+    -   
+    
 ### Media
 
 -   Canva was used to download most of the images. All images for Canva-Pro users, according to Canva's website, are free from copyright restrictions. The rest of the images used for the culture; historical places section were used from Wikipedia.
-<h2 align="center"><img src="https://www.canva.com/photos/"></h2>
-<h2 align="center"><img src="https://www.wikipedia.org/"></h2>
+
 
 
 ### Acknowledgements
 
--   My Mentor for continuous helpful feedback.
-
--   Tutor support at Code Institute for their support.
+-   I want to express my gratitude to the following people:
+1. Sharon, my partner, for helping me with the project throughout.
+2. Can, my mentor, who despite the holidays period have guided me and provided me with valuable feedback before submission.
+3. My present work managers, for their encouragement and flexibility with my schedule.
