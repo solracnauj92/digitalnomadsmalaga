@@ -57,7 +57,7 @@ After spending hours studying, drawing inspiration, testing different designs, u
         -I got the images for the culture: historical places section from Wikipedia. Having the appropriate images for the section in this situation was essential.
         ### Icons
         -   Font Awesome was used for my icons. A platform that offers an icon library and toolkit used by millions of designers, developers, and content creators.A simple yet elegant icon to go with my website and the intention I was looking for. 
-                <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/socialmedia.png"></h2>
+        <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/socialmedia.png"></h2>
 
 
 
@@ -65,6 +65,24 @@ After spending hours studying, drawing inspiration, testing different designs, u
 
 
 *   ### Wireframes
+    -Balsamiq helped me brainstorm and design my website. However, since this was the original concept before attempting to create the website, some elements were changed along the way. 
+
+    -   Home 
+    <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/home.png"></h2>
+    -   Culture
+    <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/culture1.png"></h2>
+    -   Gastronomy 
+    <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/gastronomy1.png"></h2>
+    -   Weather
+     <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/weather1.png"></h2>
+    -   Leisure
+     <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/leisure1.png"></h2>
+    -   Join Us
+    <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/joinus1.png"></h2>
+    
+
+
+
 
     -   Home Page Wireframe - [View](https://github.com/)
 
