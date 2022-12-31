@@ -50,7 +50,7 @@ magazine-like appearance. Designed by Claus Eggers Sørensen.
 
 .
    #### Logo and Images
-        -   Canva was used to download most of the images. All images for Canva-Pro users, according to Canva's website, are free from copyright restrictions. I was able to navigate through their images to find the ones needed for the website.
+-   Canva was used to download most of the images. All images for Canva-Pro users, according to Canva's website, are free from copyright restrictions. I was able to navigate through their images to find the ones needed for the website.
 After spending hours studying, drawing inspiration, testing different designs, understanding the value of brand identity and how consumers would react to it, the logo design was developed and created using Canva. I've opted to keep with minimalism and use white and black as the logo's primary colours. This way I can use it against any background colour. Moreover, I've decided to use the same hero font that I've used across the website for the logo to match.
         <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/logowhite.png"></h2>
         -Because there were no copyright-free images available for the content I was looking for, I used Canva to match related images that fit the museum's concept for the section on the culture page. I deliberately made it distinctive so that customers wouldn't focus much on the images because they have no link to the museums.
@@ -137,8 +137,11 @@ After spending hours studying, drawing inspiration, testing different designs, u
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results]<h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/w3cmarkupvalidator"></h2>
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results]<h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/w3ccssvalidator"></h2>
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results]<h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/w3cmarkupvalidator/home.png"></h2>
+W3C HTML validator folder with test: <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/w3cmarkupvalidator"></h2>
+W3C CSS validator folder with test: <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/w3ccssvalidator"></h2>
+
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results]<h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/w3ccssvalidator/stylew3c.png"></h2>
 
 ### Testing User Stories from User Experience (UX) Section
 
