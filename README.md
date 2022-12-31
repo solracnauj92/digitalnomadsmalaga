@@ -32,7 +32,7 @@ The website is an online resource for digital nomads who are based in or intend 
         2. As a Frequent User, I want to check to see if there are any new blog posts.
         3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
 
--   ### Design
+    -   ### Design
     -   #### Theme and Color palette
         -   Since I recognize the importance of design and how the user will feel when browsing it, I felt a minimalist design and theme would work best with the website. Due to the plain and white background, the images can be highlighted and focused without affecting the user's experience. Additionally, users may find it simpler to read through the content on the page. Its ageless qualities of simplicity, neutrality, and elegance allow it to fit into any imaginative setting.
         
@@ -40,15 +40,16 @@ The website is an online resource for digital nomads who are based in or intend 
 
     -   #### Typography
         -   Fonts were imported from Google Fonts. The Open Font Licence governs the use of these fonts.
-·        'PlayFair Display' font is used for the main text and headings. It is a stylish font that provides the look I was going for; a magazine-like appearance. Designed by Claus Eggers Sørensen.
+·        'PlayFair Display' font is used for the main text and headings. It is a stylish font that provides the look I was going for; a
+magazine-like appearance. Designed by Claus Eggers Sørensen.
 
-        <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/font1.png"></h2>
+<h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/font1.png"></h2>
         -   ‘Chivo Mono’ font is used for paragraphs and other subheadings. For the necessity of a digitalised look and a font that matches well with PlayFair Display. Designed by Omnibus-Type.
                 <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/font2.png"></h2>
         -. ‘Sans-serif’- font is used in the unlikely event that a browser is unable to load my chosen fonts.
 
 .
-    -   #### Logo and Images
+   #### Logo and Images
         -   Canva was used to download most of the images. All images for Canva-Pro users, according to Canva's website, are free from copyright restrictions. I was able to navigate through their images to find the ones needed for the website.
 After spending hours studying, drawing inspiration, testing different designs, understanding the value of brand identity and how consumers would react to it, the logo design was developed and created using Canva. I've opted to keep with minimalism and use white and black as the logo's primary colours. This way I can use it against any background colour. Moreover, I've decided to use the same hero font that I've used across the website for the logo to match.
         <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/logowhite.png"></h2>
