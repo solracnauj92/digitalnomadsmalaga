@@ -51,9 +51,15 @@ The website is an online resource for digital nomads who are based in or intend 
     -   #### Logo and Images
         -   Canva was used to download most of the images. All images for Canva-Pro users, according to Canva's website, are free from copyright restrictions. I was able to navigate through their images to find the ones needed for the website.
 After spending hours studying, drawing inspiration, testing different designs, understanding the value of brand identity and how consumers would react to it, the logo design was developed and created using Canva. I've opted to keep with minimalism and use white and black as the logo's primary colours. This way I can use it against any background colour. Moreover, I've decided to use the same hero font that I've used across the website for the logo to match.
-        <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/logoblack.png"></h2>
+        <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/logowhite.png"></h2>
         -Because there were no copyright-free images available for the content I was looking for, I used Canva to match related images that fit the museum's concept for the section on the culture page. I deliberately made it distinctive so that customers wouldn't focus much on the images because they have no link to the museums.
         <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/museumdesign.png"></h2>
+        -I got the images for the culture: historical places section from Wikipedia. Having the appropriate images for the section in this situation was essential.
+        ### Icons
+        -   Font Awesome was used for my icons. A platform that offers an icon library and toolkit used by millions of designers, developers, and content creators.A simple yet elegant icon to go with my website and the intention I was looking for. 
+                <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/socialmedia.png"></h2>
+
+
 
 
 
