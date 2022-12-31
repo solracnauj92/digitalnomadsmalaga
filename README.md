@@ -62,17 +62,17 @@ After spending hours studying, drawing inspiration, testing different designs, u
 *   ### Wireframes
     -Balsamiq helped me brainstorm and design my website. However, since this was the original concept before attempting to create the website, some elements were changed along the way. 
 
-    ###   Home 
+    <h2> Home </h2>
     <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/home.png"></h2>
-    ####  Culture
+    <h2> Culture </h2>
     <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/culture1.png"></h2>
-    ####   Gastronomy 
+    <h2> Gastronomy </h2>
     <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/gastronomy1.png"></h2>
-    ####  Weather
+    <h2> Weather </h2>
      <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/weather1.png"></h2>
-    ####  Leisure
+    <h2> Leisure </h2>
      <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/leisure1.png"></h2>
-    ####   Join Us
+    <h2> Join Us </h2>
     <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/joinus1.png"></h2>
     
 
@@ -292,7 +292,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
     -   https://stackoverflow.com/questions/29336611/css-media-queries-order-matters
     -   https://www.youtube.com/watch?v=_JvHvGGvps0&t=181s
     -   
-    
+
 ### Media
 
 -   Canva was used to download most of the images. All images for Canva-Pro users, according to Canva's website, are free from copyright restrictions. The rest of the images used for the culture; historical places section were used from Wikipedia.
