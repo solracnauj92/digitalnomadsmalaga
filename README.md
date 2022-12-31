@@ -64,20 +64,20 @@ After spending hours studying, drawing inspiration, testing different designs, u
 
     ###   Home 
     <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/home.png"></h2>
-    ###  Culture
+    ####  Culture
     <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/culture1.png"></h2>
-    ###   Gastronomy 
+    ####   Gastronomy 
     <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/gastronomy1.png"></h2>
-    ###  Weather
+    ####  Weather
      <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/weather1.png"></h2>
-    ###  Leisure
+    ####  Leisure
      <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/leisure1.png"></h2>
-    ###   Join Us
+    ####   Join Us
     <h2 align="center"><img src="https://github.com/solracnauj92/digitalnomadsmalaga/blob/main/assets/images/joinus1.png"></h2>
     
 
     ## Features
-    -Navigation
+    <h2>Navigation</h2>
     1.The navigation bar is included directly beneath the page's hero picture.
     2.Users are returned to the main home page if they click on the logo or the page's hero image.
     3.The menu button to the left of the page, leads to Culture, Gastronomy, Leisure, and Join Us tabs.
@@ -85,7 +85,7 @@ After spending hours studying, drawing inspiration, testing different designs, u
     5.The navigation bar makes it simple to find further page sections and clearly displays the name of the page.
     6.The navigation bar always remains just beneath the hero image to enable user-continuous page navigation
 
-    -Header image
+    <h2>Header image</h2>
     The primary image, which is displayed above the navigation bar, provides a clear view of Malaga, Spain. The topic of each page is represented by an image. All of the hero pictures were from Canva-Pro. Multiple vertical pictures were employed to describe various activity choices to customers in the leisure section.
     The pictures stand out against the site's backdrop and are well lit.
     The picture is closely attributed to the website's aim.
@@ -220,6 +220,11 @@ W3C CSS validator folder with test: <h2 align="center"><img src="https://github.
 -   I've had trouble inserting or finding any source to add the video because they all had an iframe that the validator cited was outdated. It gave me errors for my codes relating to outdated systems. However, I discovered a reference on stackoverflow that helped me find an alternative.
 
 ## Deployment
+-   The following procedures were used to publish the website to GitHub Pages:
+Navigate to the settings page in the GitHub repository.
+Select Main from the source menu after scrolling to pages.
+Once this was decided upon, a link to the finished website was created.
+
 
 ### GitHub Pages
 
@@ -268,6 +273,7 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
 ## Credits
+-   I went back to my course materials and followed some of the codes there, including the Love Running project as a guide
 
 ### Code
 
@@ -285,7 +291,10 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Media
 
--   All Images were created by the developer.
+-   Canva was used to download most of the images. All images for Canva-Pro users, according to Canva's website, are free from copyright restrictions. The rest of the images used for the culture; historical places section were used from Wikipedia.
+<h2 align="center"><img src="https://www.canva.com/photos/"></h2>
+<h2 align="center"><img src="https://www.wikipedia.org/"></h2>
+
 
 ### Acknowledgements
 
